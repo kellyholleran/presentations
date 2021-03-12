@@ -38,7 +38,7 @@
 
         ], function (esriConfig, Map, MapView, Basemap, FeatureLayer, Home, Search, Graphic, RouteTask,
             RouteParameters, FeatureSet) {
-            // 
+            
 
             esriConfig.apiKey = process.env.GLOBAL-API-KEY;
             var map = new Map({
@@ -82,7 +82,6 @@
             });
 
             // Get origin and destination
-
             function addGraphic(type, point) {
                 var graphic = new Graphic({
                     symbol: {
