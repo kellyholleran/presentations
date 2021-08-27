@@ -1,0 +1,9 @@
+﻿Email,First Name,Last Name,Username,Password,User Type,Role
+kholleran@esri.com,Kelly,Holleran,,,Standard,Author
+jrajamohan@esri.com,Jay,Rajamohan,,,Standard,Author
+tfair@esri.com,Thomas,Fair,,,Basic,Data Editor
+bsharma@esri.com,Brinda ,Sharma,,,Basic,Facilitator
+rfernandes@esri.com,Rafael,Fernandes,,,Basic,Facilitator
+bmccardle@esri.com,Breezy,McCardle,,,Basic,Contractor
+jwilson@esri.com,Jeff,Wilson,,,Lite,Contractor
+t.smith@esri.com,Todd,Smith,,,Lite,Viewer
