@@ -11,4 +11,4 @@ Resources from 2021 Esri Partner Summit presentations
 
 Demos:
 * [Add Users](/User Management/notebook): notebook to show adding multiple users, allocating licenses, revoking licenses, and deleting users
-* [Clone Content](/Content Management/notebook): notebook to show cloning content across ArcGIS environments and transferring content to a different user 
+* [Clone Content](/Content Management/Add Users.ipynb): notebook to show cloning content across ArcGIS environments and transferring content to a different user 
