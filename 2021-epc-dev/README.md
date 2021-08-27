@@ -12,4 +12,4 @@ Resources from 2021 Esri Partner Conference and Developer Summit presentations
 > Introduction to using API keys (and Identity) in ArcGIS Platform
 
 Demos:
-* [Sharing Data Services](/demo-share-data-services/notebooks): notebook to show patterns for sharing services 
+* [Sharing Data Services](/demo-data-services/notebooks): notebook to show patterns for sharing services 
