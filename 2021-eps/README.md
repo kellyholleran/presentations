@@ -10,5 +10,5 @@ Resources from 2021 Esri Partner Summit presentations
 > Learn about the latest updates to the Javascript API and Esri's new PaaS and how they can be used to build solutions for customers
 
 Demos:
-* [Add Users](/Add Users.ipynb): notebook to show adding multiple users, allocating licenses, revoking licenses, and deleting users
-* [Clone Content](/Clone Content.ipynb): notebook to show cloning content across ArcGIS environments and transferring content to a different user 
+* [Add Users](/Add Users.ipynb/notebooks): notebook to show adding multiple users, allocating licenses, revoking licenses, and deleting users
+* [Clone Content](/Clone Content.ipynb/notebooks): notebook to show cloning content across ArcGIS environments and transferring content to a different user 
